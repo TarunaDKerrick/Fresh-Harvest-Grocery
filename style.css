@@ -1,11 +1,17 @@
-<head>
+body {
+    background-color: lightgreen;
+    color: darkgreen;
+}
 
-    <meta charset="UTF-8">
+h1 {
+    color: green;
+}
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+h2 {
+    color: orange;
+}
 
-    <title>Fresh Harvest Grocery - About Us</title>
-
-    <link rel="stylesheet" href="style.css">
-
-</head>
+button {
+    background-color: green;
+    color: white;
+}
